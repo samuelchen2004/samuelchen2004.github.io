@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HPRC Data on Human Pangenome</title>
-    <link>https://humanpangenome.github.io/blog/</link>
-    <description>Recent content in HPRC Data on Human Pangenome</description>
+    <title>HPRC Data on Human Pangenome1</title>
+    <link>https://samuelchen2004.github.io/blog/</link>
+    <description>Recent content in HPRC Data on Human Pangenome1</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://humanpangenome.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://samuelchen2004.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Year 1 Sequencing Data Release</title>
-      <link>https://humanpangenome.github.io/blog/year-1-sequencing-data-release/</link>
+      <link>https://samuelchen2004.github.io/blog/year-1-sequencing-data-release/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://humanpangenome.github.io/blog/year-1-sequencing-data-release/</guid>
+      <guid>https://samuelchen2004.github.io/blog/year-1-sequencing-data-release/</guid>
       <description>Human Pangenome Reference Consortium Announced Global Release Of Year 1 Sequencing Data Overview: Researchers from the Human Pangenome Reference Consortium announce the open access publication of Year 1 Sequencing data from 30 samples, representing the first major data release from this project. In addition to data produced as part of the HPRC, the release includes data from over 15 additional samples produced outside of the HPRC.
 Sequencing Data Production Centers and Industry partners included the following: PacBio Hifi Data Produced By UW and WashU with support from PacBio Hi-C Sequencing Data Produced By UCSC Strand-Seq Data Produced By EMBL Oxford Nanopore Data Produced By UCSC BioNano Data Produced By Rockefeller Karyotypes &amp;amp; Cell Line Microarray Data Produced By Coriell and CHOP HPRC members selected samples for this study based on adding diversity to the current human reference.</description>
     </item>
     
     <item>
       <title>Additional Data Resources</title>
-      <link>https://humanpangenome.github.io/blog/additional-data-resources/</link>
+      <link>https://samuelchen2004.github.io/blog/additional-data-resources/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://humanpangenome.github.io/blog/additional-data-resources/</guid>
+      <guid>https://samuelchen2004.github.io/blog/additional-data-resources/</guid>
       <description>Pangenome Resources @ GitHutb </description>
     </item>
     
     <item>
       <title>Data Use Protocol</title>
-      <link>https://humanpangenome.github.io/blog/data-use-protocol/</link>
+      <link>https://samuelchen2004.github.io/blog/data-use-protocol/</link>
       <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://humanpangenome.github.io/blog/data-use-protocol/</guid>
+      <guid>https://samuelchen2004.github.io/blog/data-use-protocol/</guid>
       <description>HPRC goals are to develop resources for the human pangenome. These resources will include high-quality reference genomes, a pangenome tool ecosystem along with annotation of the pangenome reference. Investigators accessing the HPRC data for their research are encouraged to collaborate with the HPRC consortium whenever possible. Please visit the HPRC web site for additional information.
 Specific resource sharing plans are maintained by funded investigators of the HPRC and those plans follow the guidelines found at the following link: https://www.</description>
     </item>
     
     <item>
       <title>HG002</title>
-      <link>https://humanpangenome.github.io/blog/hg002/</link>
+      <link>https://samuelchen2004.github.io/blog/hg002/</link>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://humanpangenome.github.io/blog/hg002/</guid>
+      <guid>https://samuelchen2004.github.io/blog/hg002/</guid>
       <description>The Human Pangenome Reference Consortium asked the scientific community to submit assemblies for the HG002 assembly comparision project.
 Background: The Human Reference Pangenome Consortium has organized a collection of HG002 (NA24385) data to guide the development of new assembly and evaluation strategies for our reference production efforts.
 We accepted assembly submissions for evaluation until March 16, 2020.
@@ -50,19 +50,19 @@ Details below. Please contact Karen Miga (khmiga@soe.ucsc.edu) and Erich Jarvis 
     
     <item>
       <title>HPRC Year 1 Data Production</title>
-      <link>https://humanpangenome.github.io/blog/hpcs-year-1-data-production/</link>
+      <link>https://samuelchen2004.github.io/blog/hpcs-year-1-data-production/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://humanpangenome.github.io/blog/hpcs-year-1-data-production/</guid>
+      <guid>https://samuelchen2004.github.io/blog/hpcs-year-1-data-production/</guid>
       <description>HPRC Data Production for Year is complete with data in QC and assembly. Data release expected in November of 2020.</description>
     </item>
     
     <item>
       <title>HPRC Publication Protocol</title>
-      <link>https://humanpangenome.github.io/blog/hprc-publication-protocol/</link>
+      <link>https://samuelchen2004.github.io/blog/hprc-publication-protocol/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://humanpangenome.github.io/blog/hprc-publication-protocol/</guid>
+      <guid>https://samuelchen2004.github.io/blog/hprc-publication-protocol/</guid>
       <description>Publication Protocol – V1.0 | April 7, 2020
 The goal of the HPRC publication policy is to encourage collaboration and coordination among investigators while ensuring the timely release of research to the scientific community. The document provides general guidelines and a description of the process for disclosure of planned publications within the consortium through submission. This policy will be drafted and updated by the HPRC Administration and Coordination Working Group and approved by the HPRC steering committee.</description>
     </item>
