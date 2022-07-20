@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Human Pangenome</title>
+    <link>https://humanpangenome.github.io/test/</link>
+    <description>Recent content in test on Human Pangenome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://humanpangenome.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Awardees</title>
+      <link>https://humanpangenome.github.io/test/yo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://humanpangenome.github.io/test/yo/</guid>
+      <description>Characterization Awards Awardee Institution Title Award Number Jay Shenduree, Nadav Ahituv, Martin Kircher University of Washington, UC San Francisco, Charite Universitatsmedizin Berlin Massively parallel characterization of variants and elements impacting transcriptional regulation in dynamic cellular systems HG011966 Lea Starita, Douglas Fowler University of Washington The Center for Actionable Variant Analysis; measuring variant function at scale HG011969 Jesse Engreitz, Thomas Quertermous Stanford University Stanford Center for Connecting DNA Variants to Function and Phenotype HG011972 Marc Vidal Dana-Farber Cancer Institute Molecular phenotyping of ~100,000 coding variants across Mendelian disease genes HG011989 Gary Hon, William Kraus, Nikhil Munshi University of Texas Southwestern Medical Center Multiscale functional characterization of genomic variation in human developmental disorders HG011996 Hyejung Won, Michael Love, Karen Mohlke University of North Carolina at Chapel Hill Systematic in vivo characterization of disease-associated regulatory variants HG012003 Luca Pinello, Daniel Bauer, Guillaume Lettre, Richard Sherwood Massachusetts General Hospital, Children&amp;rsquo;s Hospital Boston, Montreal Heart Institute, Brigham and Women&amp;rsquo;s Hospital Comprehensive characterization of variants underlying heart and blood diseases with CRISPR base editing HG012010 Charles Gersbach, Gregory Crawford, Tim Reddy Duke University High-throughput functional annotation of gene regulatory elements and variants critical to complex cellular phenotypes HG012053 Mapping Awards Awardee Institution Title Award Number Jason Buenrostro, Bradley Bernstein Broad Institute, Harvard University, Broad Institute, Massachusetts General Hospital A foundational resource of functional elements, TF footprints and gene regulatory interactions HG011986 Ansuman Satpathy Stanford University Single-cell Mapping Center for Human Regulatory Elements and Gene Activity HG012076 Seyed Mortazavi, Barbara Wold UC Irvine, California Institute of Technology Center for Mouse Genomic Variation at Single Cell Resolution HG012077 Predictive Modeling Awards Awardee Institution Title Award Number Alan Boyle University of Michigan Predicting the impact of genomic variation on cellular states HG011952 Andrew S.</description>
+    </item>
+    
+  </channel>
+</rss>
